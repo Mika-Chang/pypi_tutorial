@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: example_package_mikacc
+Version: 0.0.2
+Summary: A small example package
+Author-email: Mika <mikacchang@gmail.com>
+Project-URL: Homepage, https://github.com/Mika-Chang/pypi_tutorial.git
+Project-URL: Issues, https://github.com/Mika-Chang/pypi_tutorial.git/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This is practice for setting up a python package pypi
